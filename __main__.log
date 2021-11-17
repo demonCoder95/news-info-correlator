@@ -1,0 +1,7 @@
+[2021-02-01 08:48:52,025: INFO from __main__]: /home/p4wn3r/test/arynews.tv exists and is readable.
+[2021-02-01 08:48:52,025: INFO from __main__]: Using CLI arg for wget_dir: /home/p4wn3r/test/arynews.tv
+[2021-02-01 08:48:52,025: INFO from __main__]: Finding all HTML files...
+[2021-02-01 08:48:52,139: INFO from __main__]: Read 9972 HTML files in wget_dir: /home/p4wn3r/test/arynews.tv
+[2021-02-01 08:48:52,139: INFO from __main__]: Finding article tags in 9972 files...
+[2021-02-01 08:53:11,730: INFO from __main__]: Found <article> tag in 9899 HTML files!
+[2021-02-01 08:53:11,730: INFO from __main__]: No <article> tag in 73 HTML files!
